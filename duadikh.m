@@ -1,0 +1,1 @@
+duadikh_akolou8ia=randsrc(100000,1,[0,1]);
